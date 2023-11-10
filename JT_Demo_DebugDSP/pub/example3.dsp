@@ -3,7 +3,7 @@
 	<BODY>
 		<CENTER>
 			<H1>
-				<font face="Tahoma">With pub.flow:tracePipeline, but still not working</font>
+				<font face="Tahoma">Example 3: With pub.flow:tracePipeline, but still not working</font>
 			</H1>
 		</CENTER>
 		%invoke jt.demo.debugDSP.pub:service1%

@@ -15,4 +15,9 @@ the `server.log` file of Integration Server.
 There is also a [YouTube video about this package](https://www.youtube.com/watch?v=UynxYtqezh8) .
 
 For more information on how to develop DSPs, please have
-a look at the [Dynamic Server Pages and Output Templates Developer's Guide](https://documentation.softwareag.com/webmethods/integration_server/pie10-15/webhelp/pie-webhelp/index.html#page/pie-webhelp%2Fto-webhelp_intro_is_dsp_guide.html%23).
+a look at the [Dynamic Server Pages and Output Templates Developer's Guide](https://www.ibm.com/docs/en/webmethods-integration/wm-integration-server/11.1.0?topic=guide-using-dynamic-server-pages-dsps).
+
+---
+These tools are provided as-is and without warranty or support. Users are free to use, fork and modify them, subject to the license agreement.
+
+webMethods® is a registered trademark of International Business Machines Corporation (“IBM”).
